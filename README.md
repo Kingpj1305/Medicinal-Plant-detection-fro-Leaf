@@ -1,1 +1,1 @@
-# Medicinal-Plant-detection-fro-Leaf
+# Medicinal-Plant-detection-from-Leaf
